@@ -1,0 +1,7 @@
+fastapi==0.75.0
+PassportEye==2.2.0
+uvicorn==0.17.5
+python-multipart
+numpy
+opencv-utils
+opencv-python
